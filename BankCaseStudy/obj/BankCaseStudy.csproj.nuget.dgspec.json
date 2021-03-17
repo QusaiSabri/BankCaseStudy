@@ -1,28 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/Users/Qusay19/FRProjects/BankCaseStudy/BankCaseStudy/BankCaseStudy.csproj": {}
+    "C:\\Users\\Qusay\\source\\repos\\BankCaseStudy\\BankCaseStudy\\BankCaseStudy.csproj": {}
   },
   "projects": {
-    "/Users/Qusay19/FRProjects/BankCaseStudy/BankCaseStudy/BankCaseStudy.csproj": {
+    "C:\\Users\\Qusay\\source\\repos\\BankCaseStudy\\BankCaseStudy\\BankCaseStudy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/Qusay19/FRProjects/BankCaseStudy/BankCaseStudy/BankCaseStudy.csproj",
+        "projectUniqueName": "C:\\Users\\Qusay\\source\\repos\\BankCaseStudy\\BankCaseStudy\\BankCaseStudy.csproj",
         "projectName": "BankCaseStudy",
-        "projectPath": "/Users/Qusay19/FRProjects/BankCaseStudy/BankCaseStudy/BankCaseStudy.csproj",
-        "packagesPath": "/Users/Qusay19/.nuget/packages/",
-        "outputPath": "/Users/Qusay19/FRProjects/BankCaseStudy/BankCaseStudy/obj/",
+        "projectPath": "C:\\Users\\Qusay\\source\\repos\\BankCaseStudy\\BankCaseStudy\\BankCaseStudy.csproj",
+        "packagesPath": "C:\\Users\\Qusay\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Qusay\\source\\repos\\BankCaseStudy\\BankCaseStudy\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "/Users/Qusay19/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Qusay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.104\\RuntimeIdentifierGraph.json"
         }
       }
     }
